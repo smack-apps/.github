@@ -9,6 +9,12 @@ Smack Apps is a collaboration between [Diana Vozanu](https://github.com/dianavoz
 
 #
 
+### How We Work
+
+When preparing to undertake a project, Diana researches the technologies involved and produces helpful documentation to enable both her and Zan to understand the full technological picture. Typically, Zan acts as the driver for any pair-programming, while Diana navigates. Approving pull requests is done together after they have discussed the results of each change a particular merge will bring.
+
+#
+
 ### About Diana Vozanu
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/dianavoz)
