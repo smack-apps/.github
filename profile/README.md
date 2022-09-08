@@ -6,6 +6,7 @@ Smack Apps is a collaboration between [Diana Vozanu](https://github.com/dianavoz
 
 ### Available Projects:
 - [Smack Chat](https://github.com/smack-apps/smack-chat)
+- [Pixi Animations](https://github.com/smack-apps/pixi-animations)
 
 #
 
